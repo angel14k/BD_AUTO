@@ -1,0 +1,6 @@
+@BD_AUTO_HostAddress = http://localhost:5183
+
+GET {{BD_AUTO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
